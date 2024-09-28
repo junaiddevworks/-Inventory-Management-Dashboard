@@ -1,0 +1,3 @@
+A Complete Full Stack Inventory Management Dashboard Application using Nextjs, Redux, Node, and AWS. Used Next.js for the frontend, styled with Tailwind CSS and featuring Material UI Data Grid for complex data handling. State management is streamlined with Redux Toolkit, supplemented by Redux Toolkit Query for data fetching.
+
+The backend is powered by Node.js, using Prisma as the ORM to facilitate database interactions. Worked with AWS, including setup, cost management, and networking fundamentals. Used RDS for database management, EC2 for computing power, API Gateway for creating robust APIs, Amplify for frontend deployment, and S3 for storage solutions.
